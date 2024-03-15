@@ -1,4 +1,4 @@
 # Gen-AI bots
 
 This is the repository for Gen-AI bots.
-This is new change
+We'll be making a pdf bot for answering questions on pdfs.
